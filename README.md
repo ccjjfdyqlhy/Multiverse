@@ -3,3 +3,6 @@
 **Warning: this project is currently under ALPHA TESTING PHASE**  
 The current version may be ***VERY UNSTABLE***, so be careful when you're playing!  
 You have already been warned about the consequences of running this on your computer.  
+
+## Downloading & Testing  
+[Latest Release](https://github.com/ccjjfdyqlhy/Multiverse/releases/tag/alpha)
